@@ -8,7 +8,7 @@ Available on Google Play: https://play.google.com/store/apps/details?id=com.lmwe
 Official website: https://schoolquestgame.com/
 
 
-Check out the sample resources for help with using the engine!
+Check out the sample resources to see how to format the resources.
 
 
 If you have any questions, please contact lmweav.games@gmail.com
