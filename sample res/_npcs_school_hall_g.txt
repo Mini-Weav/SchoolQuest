@@ -1,0 +1,6 @@
+[morning][classmate][16,19,down,0][random|0]
+[morning][delinquent][1,6,left,0]
+[morning][girl,1][4,19,down,0][random|0]
+[morning][boy,1][13,7,down,0][random|0]
+[lunch][boy,3][4,7,down,0][random|1]
+[lunch][girl,5][18,16,down,0][random|0]

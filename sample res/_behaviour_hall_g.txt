@@ -1,0 +1,4 @@
+[9,24][PLAYER_X == 9 AND PLAYER_Y == 24][change|9,25|;]
+[10,24][PLAYER_X == 10 AND PLAYER_Y == 24][change|10,25|;]
+[9,24][PLAYER_X != 9 OR PLAYER_Y != 24][change|9,25|:]
+[10,24][PLAYER_X != 10 OR PLAYER_Y != 24][change|10,25|:]

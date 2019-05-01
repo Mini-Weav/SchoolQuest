@@ -1,0 +1,6 @@
+﻿[ID == 62][How did you get here?]
+[TIME == 0 AND ID == 61][It isn't lunch time yet. Get to class!]
+[TIME == 1 AND ID == 61 AND RESPONSE == 0;sell][Welcome to the canteen. What can I get you?][buy|Buy|Never mind|1|2]
+[RESPONSE == 1][Thank you.]
+[RESPONSE == 2][Suit yourself.]
+[TIME == 2 AND ID == 61][Sorry kid, the canteen's shut.]
