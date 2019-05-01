@@ -1238,6 +1238,8 @@ public class Game implements Serializable {
             tileMap.setCollision(gc.getX(), gc.getY(), 2);
         }
 
+        rated = data.rated;
+
         camera.setBoundingBox();
 
         bgmId = tileMap.getBGM();
@@ -1251,6 +1253,7 @@ public class Game implements Serializable {
 
     public void rateThis(final GameActivity gameActivity) {
         if (!rated) {
+            rated = true;
             gameActivity.runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
@@ -1270,7 +1273,6 @@ public class Game implements Serializable {
                     );
                 }
             });
-            rated = true;
         }
         else { gameActivity.findViewById(R.id.textbox).setVisibility(View.GONE); }
     }
