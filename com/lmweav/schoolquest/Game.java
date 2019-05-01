@@ -1272,6 +1272,7 @@ public class Game implements Serializable {
             });
             rated = true;
         }
+        else { gameActivity.findViewById(R.id.textbox).setVisibility(View.GONE); }
     }
 
     public void save() {
