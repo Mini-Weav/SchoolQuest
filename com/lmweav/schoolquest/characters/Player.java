@@ -226,6 +226,7 @@ public class Player extends GameCharacter {
                                 @Override
                                 public void run() {
                                     object.setEmotion(-1);
+                                    ((NPC) object).rotate(GAME.getPlayer());
                                     GameActivity.getInstance().displayTextBox(
                                             ((NPC) object).getText());
                                     if (((NPC) object).getId() < 5 &&

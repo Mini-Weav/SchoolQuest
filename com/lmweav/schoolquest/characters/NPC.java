@@ -631,7 +631,7 @@ public class NPC extends GameCharacter {
         }
     }
 
-    private void rotate(Player player) {
+    protected void rotate(Player player) {
         if (player.x != x) {
             if (player.x < x) { rotate(OBJECT_DIRECTION_LEFT); }
             else { rotate(OBJECT_DIRECTION_RIGHT); }
