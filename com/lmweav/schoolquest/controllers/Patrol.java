@@ -14,12 +14,11 @@ import static com.lmweav.schoolquest.Constants.SCALED_TILE_SIZE;
 
 /*
  * School Quest: Patrol
- *
  * This class handles the NPC steering behaviour between specified points.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class Patrol implements Controller, Serializable {
 

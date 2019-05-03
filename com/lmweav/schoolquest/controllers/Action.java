@@ -4,12 +4,11 @@ import java.io.Serializable;
 
 /*
  * School Quest: Action
- *
  * This class is contains the actions that are available to AI controllers.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class Action implements Serializable {
 

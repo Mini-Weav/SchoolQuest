@@ -7,8 +7,8 @@ import android.content.res.Resources;
  * This class is where all engine and game constants are stored.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-14
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class Constants {
 

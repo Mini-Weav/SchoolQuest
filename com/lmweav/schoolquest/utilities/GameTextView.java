@@ -12,8 +12,8 @@ import static android.graphics.Typeface.NORMAL;
  * This class is a sub class of TextView that displays a custom font.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class GameTextView extends AppCompatTextView {
 

@@ -18,8 +18,8 @@ import static com.lmweav.schoolquest.Constants.EMOTION_SURPRISE_INDEX;
  * attention to a certain interaction.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class InteractiveTile extends Tile {
 

@@ -16,8 +16,8 @@ import static com.lmweav.schoolquest.Constants.*;
  * Methods in this class tokenise, parse and analyse the supplied data.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class ExpressionAnalyser {
 

@@ -5,8 +5,8 @@ package com.lmweav.schoolquest.utilities.pathfinding;
  * This interface is to be implemented for heuristics used in A Star path-finding.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public interface AStarHeuristic {
 

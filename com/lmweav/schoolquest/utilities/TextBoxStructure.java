@@ -7,8 +7,8 @@ import com.lmweav.schoolquest.characters.NPC;
  * This class is a data structure for an instance of a text box.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class TextBoxStructure {
 

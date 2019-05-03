@@ -11,8 +11,8 @@ import static com.lmweav.schoolquest.Game.GAME;
  * This class is a virtual camera that determines what is rendered in the game.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class Camera {
 

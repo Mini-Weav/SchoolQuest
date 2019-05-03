@@ -7,13 +7,12 @@ import static com.lmweav.schoolquest.Constants.RANDOM_MOVE_CHANCE;
 import static com.lmweav.schoolquest.Constants.RANDOM_STOP_CHANCE;
 
 /*
- * School Quest: RandomMovemnt
- *
+ * School Quest: RandomMovement
  * This class handles the NPC steering behaviour between random points.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class RandomMovement implements Controller, Serializable {
 

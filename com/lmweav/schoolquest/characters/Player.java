@@ -25,14 +25,13 @@ import static com.lmweav.schoolquest.Constants.*;
 
 /*
  * School Quest: Player
- *
  * This class holds data for the player controlled game character.
  *
  * Methods in this class handle both logical and rendering aspects of the player character.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class Player extends GameCharacter {
 

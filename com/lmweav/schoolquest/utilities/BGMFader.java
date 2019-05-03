@@ -10,8 +10,8 @@ import java.util.TimerTask;
  * This class is a utility that fades the volume in/out when starting/stopping a media player.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class BGMFader {
 

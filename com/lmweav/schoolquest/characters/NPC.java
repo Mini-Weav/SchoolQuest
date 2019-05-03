@@ -46,15 +46,14 @@ import static com.lmweav.schoolquest.Game.GAME;
 
 /*
  * School Quest: NPC
- *
  * This class holds data for computer controlled game characters.
  *
  * Methods in this class handle both logical and rendering aspects of NPCs, as well as reading
  * external resources needed for the creation of NPC objects.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class NPC extends GameCharacter {
 

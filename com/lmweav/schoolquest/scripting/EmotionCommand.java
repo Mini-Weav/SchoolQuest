@@ -9,8 +9,8 @@ import com.lmweav.schoolquest.characters.GameCharacter;
  * This class is a script command that gives a game character an emotion object.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 class EmotionCommand extends Command {
 

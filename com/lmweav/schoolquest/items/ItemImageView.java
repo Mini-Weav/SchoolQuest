@@ -6,13 +6,12 @@ import android.util.AttributeSet;
 
 /*
  * School Quest: ItemImageView
- *
  * This class is an implementation of an image view with an item variable. It is used to render the
  * inventory menu.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class ItemImageView extends AppCompatImageView {
 

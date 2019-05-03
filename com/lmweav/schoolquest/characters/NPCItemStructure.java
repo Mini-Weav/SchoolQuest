@@ -4,13 +4,12 @@ import com.lmweav.schoolquest.items.Item;
 
 /*
  * School Quest: NPCItemStructure
- *
  * This class is a data structure used for determining how much points are rewarded fro given NPCs
  * items.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class NPCItemStructure {
     private int score;

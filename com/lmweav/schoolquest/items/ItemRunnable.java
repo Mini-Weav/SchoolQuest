@@ -4,13 +4,12 @@ import com.lmweav.schoolquest.characters.NPC;
 
 /*
  * School Quest: ItemRunnable
- *
  * This class is an implementation of an image view with an item variable. It is for runnables
  * accessible from inventory menu (such as buy, sell, craft, etc.).
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class ItemRunnable implements Runnable {
 

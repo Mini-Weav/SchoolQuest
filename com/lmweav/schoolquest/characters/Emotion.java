@@ -15,14 +15,13 @@ import static com.lmweav.schoolquest.Constants.*;
 
 /*
  * School Quest: Emotion
- *
  * This class is used to display an emoticon above a game character or tile.
  *
  * Methods in this class handle both logical and rendering aspects of the emotion.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class Emotion {
 

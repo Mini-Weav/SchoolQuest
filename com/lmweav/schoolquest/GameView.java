@@ -30,8 +30,8 @@ import static com.lmweav.schoolquest.Constants.*;
  * A thread is started on creation of the view, which calls the game's update and draw methods.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-14
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class GameView extends SurfaceView implements SurfaceHolder.Callback {
 

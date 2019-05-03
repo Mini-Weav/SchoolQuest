@@ -14,8 +14,8 @@ import com.lmweav.schoolquest.utilities.TextBoxStructure;
  * This class is a script command that creates and displays a text box.
  *
  * @author Luke Weaver
- * @version 1.0.5
- * @since 2019-04-21
+ * @version 1.0.8
+ * @since 2019-05-02
  */
 public class TextCommand extends Command {
 
