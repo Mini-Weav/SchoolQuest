@@ -8,8 +8,8 @@ import java.util.Comparator;
  * This class is an implementation of the Comparator interface used to compare item objects.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class ItemComparator implements Comparator<Item>, Serializable {
 

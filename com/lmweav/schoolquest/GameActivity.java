@@ -61,8 +61,8 @@ import static com.lmweav.schoolquest.Game.GAME;
  * current state.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class GameActivity extends Activity {
 
@@ -302,7 +302,9 @@ public class GameActivity extends Activity {
     }
 
     private void setUpHeistMenu() {
-        findViewById(R.id.status_menu_heist).setVisibility(View.VISIBLE);
+        if (GAME.getProgressDataStructure().hasHeistPlan()) {
+            findViewById(R.id.status_menu_heist).setVisibility(View.VISIBLE);
+        }
 
         ImageView heistBar1 = findViewById(R.id.status_menu_heist_bar_1);
         ImageView heistBar2 = findViewById(R.id.status_menu_heist_bar_2);

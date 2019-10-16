@@ -9,8 +9,8 @@ import java.util.ArrayList;
  * There is 1 support class declared here: Step - which makes up a path object.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class Path {
 

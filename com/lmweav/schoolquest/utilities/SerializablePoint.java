@@ -7,8 +7,8 @@ import java.io.Serializable;
  * This class is a serializable implementation of a 2D point of integers.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class SerializablePoint implements Serializable {
 

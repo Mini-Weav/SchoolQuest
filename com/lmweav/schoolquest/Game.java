@@ -58,8 +58,8 @@ import static com.lmweav.schoolquest.Constants.*;
  * loads and assigns the resource variables.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class Game implements Serializable {
 

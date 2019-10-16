@@ -47,8 +47,8 @@ import static com.lmweav.schoolquest.Constants.*;
  * Methods in this class initialise external data needed, update and render the map.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class TileMap {
 

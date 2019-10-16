@@ -8,8 +8,8 @@ import com.lmweav.schoolquest.characters.NPC;
  * accessible from inventory menu (such as buy, sell, craft, etc.).
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class ItemRunnable implements Runnable {
 

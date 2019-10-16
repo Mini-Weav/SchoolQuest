@@ -20,8 +20,8 @@ import static com.lmweav.schoolquest.Constants.*;
  * Methods in this class handle both logical and rendering aspects of the emotion.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class Emotion {
 

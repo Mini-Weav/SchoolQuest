@@ -8,8 +8,8 @@ import static com.lmweav.schoolquest.Game.GAME;
  * This class is a script command that enables/disables the loading screen view.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class LoadingCommand extends Command {
     private boolean loading;

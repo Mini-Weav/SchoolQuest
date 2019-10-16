@@ -9,8 +9,8 @@ import android.os.Bundle;
  * This class is the Android activity that runs the splash screen.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class SplashActivity extends Activity {
 

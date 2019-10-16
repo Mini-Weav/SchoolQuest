@@ -13,8 +13,8 @@ import com.lmweav.schoolquest.utilities.pathfinding.Path;
  * This class is a script command that moves a game character along a path.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class PathCommand extends Command {
 

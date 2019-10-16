@@ -53,8 +53,8 @@ import static com.lmweav.schoolquest.Constants.SFX_DEBUFF;
  * Methods in this class set up, alter and display UI elements found in the main menu.
  *
  * @author Luke Weaver
- * @version 1.0.8
- * @since 2019-05-02
+ * @version 1.0.9
+ * @since 2019-10-16
  */
 public class TitleActivity extends Activity {
 
