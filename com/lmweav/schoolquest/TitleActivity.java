@@ -521,7 +521,7 @@ public class TitleActivity extends Activity {
             public void run() {
                 Intent browserIntent = new Intent(
                         Intent.ACTION_VIEW,
-                        Uri.parse("https://schoolquestgame.com/attributions"));
+                        Uri.parse("http://miniweav.com/create/school-quest#attributions"));
                 startActivity(browserIntent);
             }
         };
